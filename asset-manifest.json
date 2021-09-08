@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/jsonthany.com/static/css/main.d8b5240a.chunk.css",
-    "main.js": "/jsonthany.com/static/js/main.c10aa874.chunk.js",
-    "main.js.map": "/jsonthany.com/static/js/main.c10aa874.chunk.js.map",
-    "runtime-main.js": "/jsonthany.com/static/js/runtime-main.8cba2216.js",
-    "runtime-main.js.map": "/jsonthany.com/static/js/runtime-main.8cba2216.js.map",
-    "static/js/2.19e99e5d.chunk.js": "/jsonthany.com/static/js/2.19e99e5d.chunk.js",
-    "static/js/2.19e99e5d.chunk.js.map": "/jsonthany.com/static/js/2.19e99e5d.chunk.js.map",
-    "index.html": "/jsonthany.com/index.html",
-    "precache-manifest.4d780ed508d6d40d56556faddd46d824.js": "/jsonthany.com/precache-manifest.4d780ed508d6d40d56556faddd46d824.js",
-    "service-worker.js": "/jsonthany.com/service-worker.js",
-    "static/css/main.d8b5240a.chunk.css.map": "/jsonthany.com/static/css/main.d8b5240a.chunk.css.map",
-    "static/js/2.19e99e5d.chunk.js.LICENSE.txt": "/jsonthany.com/static/js/2.19e99e5d.chunk.js.LICENSE.txt",
-    "static/media/jsonthany.png": "/jsonthany.com/static/media/jsonthany.4e798757.png",
-    "static/media/resume.pdf": "/jsonthany.com/static/media/resume.9d3da0e2.pdf"
+    "main.css": "/home/static/css/main.d8b5240a.chunk.css",
+    "main.js": "/home/static/js/main.db3656ea.chunk.js",
+    "main.js.map": "/home/static/js/main.db3656ea.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
+    "static/js/2.19e99e5d.chunk.js": "/home/static/js/2.19e99e5d.chunk.js",
+    "static/js/2.19e99e5d.chunk.js.map": "/home/static/js/2.19e99e5d.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.df40df3ea08865d5fe6267fb12c35833.js": "/home/precache-manifest.df40df3ea08865d5fe6267fb12c35833.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.d8b5240a.chunk.css.map": "/home/static/css/main.d8b5240a.chunk.css.map",
+    "static/js/2.19e99e5d.chunk.js.LICENSE.txt": "/home/static/js/2.19e99e5d.chunk.js.LICENSE.txt",
+    "static/media/jsonthany.png": "/home/static/media/jsonthany.4e798757.png",
+    "static/media/resume.pdf": "/home/static/media/resume.9d3da0e2.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cba2216.js",
+    "static/js/runtime-main.3c590061.js",
     "static/js/2.19e99e5d.chunk.js",
     "static/css/main.d8b5240a.chunk.css",
-    "static/js/main.c10aa874.chunk.js"
+    "static/js/main.db3656ea.chunk.js"
   ]
 }
