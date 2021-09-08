@@ -54,8 +54,8 @@ const about = {
   imageLink: require("../editable-stuff/jsonthany.png"),
   imageSize: 375,
   message:
-    "My name is Jason Thany. I’m currently a Computer Science student from the University of University of British Columbia with graduating in December 2022. My goal is to become a full-time Software Engineer after graduation. During my spare time, I love learning new technologies and applying them in ways that would either improve my skillsets or contribute to tackling everyday issues.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "My name is Jason Thany. I’m currently a Computer Science student from the University of University of British Columbia graduating in December 2022. My goal is to become a full-time Software Engineer after graduation. During my spare time, I love learning new technologies and applying them in ways that would either improve my skillsets or contribute to tackling everyday issues.",
+  resume: require("../editable-stuff/resume.pdf"),
 };
 
 // PROJECTS SECTION
@@ -102,11 +102,11 @@ const skills = {
   hardSkills: [
     { name: "Python", value: 90 },
     { name: "SQL", value: 55 },
-    { name: "Data Structures", value: 90 },
-    { name: "C/C++", value: 55 },
-    { name: "JavaScript", value: 75 },
-    { name: "TypeScript", value: 65 },
-    { name: "React", value: 75 },
+    { name: "Java", value: 85 },
+    { name: "C/C++", value: 65 },
+    { name: "JavaScript", value: 85 },
+    { name: "TypeScript", value: 75 },
+    { name: "React", value: 85 },
     { name: "HTML/CSS", value: 55 },
   ],
   softSkills: [
