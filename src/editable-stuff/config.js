@@ -136,8 +136,13 @@ const experiences = {
   data: [
     {
       role: 'Software Engineer (Intern)',// Here Add Company Name
+      companylogo: require('../assets/img/aws.jpeg'),
+      date: 'May 2022 - August 2022',
+    },
+    {
+      role: 'Software Engineer (Intern)',// Here Add Company Name
       companylogo: require('../assets/img/trulioo.jpeg'),
-      date: 'August 2021 - Present',
+      date: 'August 2021 - April 2022',
     },
     {
       role: 'Management Consultant (Full-Time)',
