@@ -6,9 +6,9 @@ import {
  } from "react-bootstrap";
 const ExperienceCard = ({data}) => {
     return ( 
-        <Col lg="6">
+        <Col lg="4">
             <div className="pb-5 text-center">
-                <img className=" bg-white mb-3" src={data.companylogo} alt=""/>
+                <img className=" bg-white mb-3" src={data.companylogo} alt="" width="275px"/>
                 <p className="lead">
                     {data.role}
                     <br/>

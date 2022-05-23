@@ -51,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/jsonthany.png"),
+  imageLink: require("../editable-stuff/jsonthany_memoji.jpg"),
   imageSize: 375,
   message:
     "My name is Jason Thany. I’m currently a Computer Science student from the University of British Columbia graduating in December 2022. My goal is to become a full-time Software Engineer after graduation. During my spare time, I love learning new technologies and applying them in ways that would either improve my skillsets or contribute to tackling everyday issues.",
